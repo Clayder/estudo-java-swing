@@ -20,8 +20,11 @@ import javax.swing.SwingConstants;
  */
 public class JavaSwing {
     
+    // Body
     private static JFrame frame;
     private static JLabel label;
+    
+    // Div
     private static JPanel mainPanel;
     private static JButton btnAction;
 
